@@ -10,7 +10,7 @@ A webpage that displays a list of the names and links to your favorite websites.
 > [!NOTE]
 > package.json Line 11 was changed from "react_scripts": "^0.0.0" to "react-scripts": "^4.0.3"
 
-![App Screenshot](<.Webpage.png)
+![App Screenshot](./Webpage.png)
 
 ## Rationale
 
