@@ -10,6 +10,8 @@ A webpage that displays a list of the names and links to your favorite websites.
 > [!NOTE]
 > package.json Line 11 was changed from "react_scripts": "^0.0.0" to "react-scripts": "^4.0.3"
 
+![App Screenshot](<.Webpage.png)
+
 ## Rationale
 
 Now that we've had time to dive into the fundamentals of [React.JS](https://reactjs.org) let's test your knowledge of the fundamentals and create our first React app!
