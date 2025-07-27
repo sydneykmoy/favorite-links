@@ -5,6 +5,7 @@ A webpage that displays a list of the names and links to your favorite websites.
 
 > [!TIP]
 > In order to run npm start you may have to first run `$env:NODE_OPTIONS="--openssl-legacy-provider"` (for a Windows system)
+
 > [!NOTE]
 > package.json Line 11 was changed from "react_scripts": "^0.0.0" to "react-scripts": "^4.0.3"
 
