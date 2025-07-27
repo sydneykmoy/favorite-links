@@ -7,13 +7,6 @@ A webpage that displays a list of the names and links to your favorite websites.
 > package.json Line 11 was changed from "react_scripts": "^0.0.0" to "react-scripts": "^4.0.3"
 > In order to run npm start you may have to first run `$env:NODE_OPTIONS="--openssl-legacy-provider"` (for a Windows system)
 
-
-**Due Date:** 7/25/2025 by 11:59pm
-
-**Submission Type:** Slack
-
-**Grading:** Letter Grade
-
 **Topics:** Command Line, Git, React (Components, State, Props, JSX), Javascript
 
 ## Rationale
