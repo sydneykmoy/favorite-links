@@ -3,9 +3,10 @@
 ## What Is It
 A webpage that displays a list of the names and links to your favorite websites. You can add a new website name and URL by filling out the form at the bottom, clicking the Submit button when you're done. Each row also has a Delete button you can use to delete unwanted websites. Displayed as the two default favorite websites are my GitHub and LinkedIn URLs. The GitHub and LinkedIn icons, when clicked, will take you to the same URLs. Each new website you add will also have a new random image displayed next to it, as long as it has a different name, courtesy of [Lorem Picsum] (https://picsum.photos/). 
 
+> [!TIP]
+> In order to run npm start you may have to first run `$env:NODE_OPTIONS="--openssl-legacy-provider"` (for a Windows system)
 > [!NOTE]
 > package.json Line 11 was changed from "react_scripts": "^0.0.0" to "react-scripts": "^4.0.3"
-> In order to run npm start you may have to first run `$env:NODE_OPTIONS="--openssl-legacy-provider"` (for a Windows system)
 
 **Topics:** Command Line, Git, React (Components, State, Props, JSX), Javascript
 
